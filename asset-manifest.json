@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/deploy-cra-redux/static/css/main.534db6d7.css",
+    "main.js": "/deploy-cra-redux/static/js/main.c3f1eda3.js",
+    "static/js/453.c7569dbb.chunk.js": "/deploy-cra-redux/static/js/453.c7569dbb.chunk.js",
+    "static/media/logo.svg": "/deploy-cra-redux/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/deploy-cra-redux/index.html",
+    "main.534db6d7.css.map": "/deploy-cra-redux/static/css/main.534db6d7.css.map",
+    "main.c3f1eda3.js.map": "/deploy-cra-redux/static/js/main.c3f1eda3.js.map",
+    "453.c7569dbb.chunk.js.map": "/deploy-cra-redux/static/js/453.c7569dbb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.534db6d7.css",
+    "static/js/main.c3f1eda3.js"
+  ]
+}
